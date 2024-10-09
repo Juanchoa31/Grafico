@@ -1,4 +1,4 @@
-# Dise-oGrafico
+#Grafico
 
 #Granja (Color y orden para colocarle color)
 
