@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#contenedor{
+    background: royalblue;
+}
+
+.logo img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+header{
+    background: lightgreen;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.logo h2{
+    font-size: 40px;
+    margin-left: 40px;
+}
+
+nav{
+    margin: 50px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 15px;
+    color: black;
+    font-size: 20px;
+}
+
+nav ul li:hover{
+    color: royalblue;
+    font-size: 30px;
+}
