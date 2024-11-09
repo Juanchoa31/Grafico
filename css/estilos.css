@@ -6,6 +6,7 @@
 
 #contenedor{
     background: royalblue;
+    color: white;
 }
 
 .logo img{
@@ -15,7 +16,7 @@
 }
 
 header{
-    background: lightgreen;
+    background: darkblue;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -43,11 +44,11 @@ nav ul{
 nav ul li{
     display: inline-block;
     padding: 15px;
-    color: black;
+    color: white;
     font-size: 20px;
 }
 
 nav ul li:hover{
-    color: royalblue;
+    color: lightblue;
     font-size: 30px;
 }
